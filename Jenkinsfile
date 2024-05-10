@@ -6,6 +6,6 @@ node {
     }
 
     stage('Build image') {
-       echo "hello world"
+       echo "hello to world"
     }
 }
